@@ -1,0 +1,21 @@
+header{
+    font-family: Arial Black;
+    text-align: center;
+}
+
+#responsive {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    /* background: url('https://s20.postimg.org/o09gf7fvx/bag.jpg') no-repeat center top; */
+    /* background-size: contain; */
+}
+
+/* input{
+    width: 1000px
+    
+}
+
+textarea{
+    width: 800px;
+} */
